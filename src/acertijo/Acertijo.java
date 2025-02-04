@@ -18,9 +18,8 @@ public class Acertijo {
         //Inicio
         JPanel Inicio = new JPanel();
         Inicio.add(new JLabel("  BIENVENIDO AL ACERTIJO  "));
-        Inicio.add(new JLabel("En cada pestaña de letra encontraras un reto, si aciertas recibiras una letra."));
-        Inicio.add(new JLabel("En la pestaña de respuesta debes escribir las tres en orden, teniendolas correctas ganarás"));
-        //Botón continuar que te lleve a la primera letra
+        Inicio.add(new JLabel("En cada pestaña de letra encontrarás un reto, si aciertas recibirás una letra."));
+        Inicio.add(new JLabel("En la pestaña de respuesta debes escribir las tres en orden, teniendo las correctas ganarás"));
         
         //Letra 1
         JPanel L1 = new JPanel();
